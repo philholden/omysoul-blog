@@ -223,7 +223,7 @@ const posts = [
 			<p>I am hoping that next time I go out I can get the app working so it can display images too. That way I can do a proper presentation.
 `
   }
-].filter(x => x === 0);
+].filter((x, i) => x === 0);
 
 posts.forEach(post => {
   post.html = post.html.replace(/^\t{3}/gm, "");
