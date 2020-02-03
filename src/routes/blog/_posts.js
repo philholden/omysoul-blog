@@ -8,85 +8,225 @@
 // underscore tells Sapper not to do that.
 
 const posts = [
-	{
-		title: 'What is Sapper?',
-		slug: 'what-is-sapper',
-		html: `
-			<p>First, you have to know what <a href='https://svelte.dev'>Svelte</a> is. Svelte is a UI framework with a bold new idea: rather than providing a library that you write code with (like React or Vue, for example), it's a compiler that turns your components into highly optimized vanilla JavaScript. If you haven't already read the <a href='https://svelte.dev/blog/frameworks-without-the-framework'>introductory blog post</a>, you should!</p>
+  {
+    title: "Copyright and Christian music",
+    slug: "lord-of-scotland",
+    html: `
+		<p>Part of the vision of omysoul is to enable worship on the street with minimal planning.
+		One problem with this is that nearly all modern worship artists (whose songs we sing in churches) have sold all the rights to their songs.
+		Small independant Christian labels have mostly now been bought by big secular multinational media conglomerates.
 
-			<p>Sapper is a Next.js-style framework (<a href='blog/how-is-sapper-different-from-next'>more on that here</a>) built around Svelte. It makes it embarrassingly easy to create extremely high performance web apps. Out of the box, you get:</p>
+		<p>While most Christian artists sing words to the effect:
+    <ul>
+		<li>I'm giving it all away
+		<li>I surrender all
+		<li>Nothing do I withhold
+		<li>Freely we must give
+		<li>You can have it all Lord
+		<li>I'm laying down my rights
+</ul>
+		<p>The reality is that all the rights to these songs are reserved. These worship leaders extract money every time their songs are sung. 
+		What is worse is who the rights have been sold to: the same media organisations that promote Rihanna, JayZ and Lady Gaga. We are
+		relying on the ones pumping out sewage to corrupt the world to provide fresh drinking water for our churches. Our
+		worship songs have been bought by Mammon and now we need to ask his permission to sing them.
+		
+		<p>Seporate licences are need for:
+		<ul>
+		<li>Sheet music
+		<li>Lyrics displayed on the projector
+		<li>Outside performance
+		<li>Publicly playing music you have bought
+		<li>Recording (to put on YouTube)
+		</ul>
 
-			<ul>
-				<li>Code-splitting, dynamic imports and hot module replacement, powered by webpack</li>
-				<li>Server-side rendering (SSR) with client-side hydration</li>
-				<li>Service worker for offline support, and all the PWA bells and whistles</li>
-				<li>The nicest development experience you've ever had, or your money back</li>
-			</ul>
+		<p>You also need to have a covering organisation and to know the numbers that will be present.
+		This does not work with the adhoc nature of worship we want to promote with omysoul.
 
-			<p>It's implemented as Express middleware. Everything is set up and waiting for you to get started, but you keep complete control over the server, service worker, webpack config and everything else, so it's as flexible as you need it to be.</p>
-		`
-	},
+		<blockquote>Jesus declared, "Believe me, woman, a time is coming when you will worship the Father
+		neither on this mountain nor in Jerusalem.<br><i>(John 4:20,21)</i></blockquote>
+		
+		<p>Worship is meant to be a spontainous part of our lives, something we do wherever we go. Without the need to create a covering
+		organisation. Currently if two believers want to worship together independantly of their churches the licence costs <b>£39</b> and
+		that just covers the lyrics.
 
-	{
-		title: 'How to use Sapper',
-		slug: 'how-to-use-sapper',
-		html: `
-			<h2>Step one</h2>
-			<p>Create a new project, using <a href='https://github.com/Rich-Harris/degit'>degit</a>:</p>
+		<h2>Worship as a product</h2>
 
-			<pre><code>npx degit "sveltejs/sapper-template#rollup" my-app
-			cd my-app
-			npm install # or yarn!
-			npm run dev
-			</code></pre>
+		The Christian Copyright Licensing International (CCLI) is the organisation that deals with the licensing of most Christian music
+		defines their role like this on its website: 
 
-			<h2>Step two</h2>
-			<p>Go to <a href='http://localhost:3000'>localhost:3000</a>. Open <code>my-app</code> in your editor. Edit the files in the <code>src/routes</code> directory or add new ones.</p>
+		<blockquote>It’s about treating content owners and artists fairly, legally,
+		and honestly while at once discovering new markets for <b>excellent product</b>.</blockquote>
 
-			<h2>Step three</h2>
-			<p>...</p>
+    <p>Jesus had something to say about markets and worship:
 
-			<h2>Step four</h2>
-			<p>Resist overdone joke formats.</p>
-		`
-	},
+		<blockquote>"Get these out of here! How dare you turn my Father's house into a market!"<br> <i>(John 2:16)</i></blockquote>
 
-	{
-		title: 'Why the name?',
-		slug: 'why-the-name',
-		html: `
-			<p>In war, the soldiers who build bridges, repair roads, clear minefields and conduct demolitions — all under combat conditions — are known as <em>sappers</em>.</p>
+		<p>There is a different licence for every type of organisation and different licence for every possible use of a song.
+		When I ask about a suitable licence that allows small numbers of believers from different churches to worship together
+		at a reasonable price I understand why I get no answer.
+		
+		<p>A licence that charged a flat fee per worshipper per song would destroy the need for all the other licences.
+		CCLI recieves disproportionaly more money from small fellowships. Church plants under 15 people pay <b>36 times</b> more per
+		head per year than mega churches of 9999. One off events pay <b>25 times</b> more than weekly church meetings. Songs sung by
+		14 people in a one off event in the open air cost a staggering <b>900 times</b> more than the
+		same songs sung in a mega church. The current price structure is a tax on mission and church planting. The pricing structure
+		also implies a large proportion of the CCLI fee is actually being paid to them as an administration fee and not reaching the artists.
 
-			<p>For web developers, the stakes are generally lower than those for combat engineers. But we face our own hostile environment: underpowered devices, poor network connections, and the complexity inherent in front-end engineering. Sapper, which is short for <strong>S</strong>velte <strong>app</strong> mak<strong>er</strong>, is your courageous and dutiful ally.</p>
-		`
-	},
+		<h2>Freedom!!!</h2>
 
-	{
-		title: 'How is Sapper different from Next.js?',
-		slug: 'how-is-sapper-different-from-next',
-		html: `
-			<p><a href='https://github.com/zeit/next.js'>Next.js</a> is a React framework from <a href='https://zeit.co'>Zeit</a>, and is the inspiration for Sapper. There are a few notable differences, however:</p>
+		<p>For this reason omysoul wants to opt out of this system. If Mammon paid for a few decades of Christian songs
+		we may just have to say he can keep them. If God gave the songs he can give us new songs for a new season.
+		And this time we won't sell them:
 
-			<ul>
-				<li>It's powered by <a href='https://svelte.dev'>Svelte</a> instead of React, so it's faster and your apps are smaller</li>
-				<li>Instead of route masking, we encode route parameters in filenames. For example, the page you're looking at right now is <code>src/routes/blog/[slug].html</code></li>
-				<li>As well as pages (Svelte components, which render on server or client), you can create <em>server routes</em> in your <code>routes</code> directory. These are just <code>.js</code> files that export functions corresponding to HTTP methods, and receive Express <code>request</code> and <code>response</code> objects as arguments. This makes it very easy to, for example, add a JSON API such as the one <a href='blog/how-is-sapper-different-from-next.json'>powering this very page</a></li>
-				<li>Links are just <code>&lt;a&gt;</code> elements, rather than framework-specific <code>&lt;Link&gt;</code> components. That means, for example, that <a href='blog/how-can-i-get-involved'>this link right here</a>, despite being inside a blob of HTML, works with the router as you'd expect.</li>
-			</ul>
-		`
-	},
+		<blockquote>He put a new song in my mouth, a hymn of praise to our God.<br> <i>(Psalm 40:2)</i></blockquote>
 
-	{
-		title: 'How can I get involved?',
-		slug: 'how-can-i-get-involved',
-		html: `
-			<p>We're so glad you asked! Come on over to the <a href='https://github.com/sveltejs/svelte'>Svelte</a> and <a href='https://github.com/sveltejs/sapper'>Sapper</a> repos, and join us in the <a href='https://svelte.dev/chat'>Discord chatroom</a>. Everyone is welcome, especially you!</p>
-		`
-	}
-];
+		And these songs will be about God, about mission:
+		
+		<blockquote>Many will see and fear and put their trust in the LORD.<br> <i>(Psalm 40:3)</i></blockquote>
+
+		<p>There is something a bit lazy about Christians
+		all round the world singing songs only written by a handful of Christians. There is also something dangerous, in
+		that it is now secular multinations that have the marketing budgets that propel these <b>excellent products</b>
+		into the Christian music scene.
+
+		<p>Worship Together on the surface looks like an independant site that exists simply to teach people to play new worship songs.
+		This is how it describes itself:
+
+		<blockquote>Worship Together is the best and most <b>comprehensive resource</b> on the web for worship leaders,
+		 worship bands and worship teams.</blockquote>
+
+		<p>However it appears from the Capitol Christian Music Group (CCMG) website that Worship Together is actually owned by them.
+		If this is the case what appears to be a <b>comprehensive resource</b> for worship leaders may actually serve as a marketing tool.
+		Capitol Christian Music Group is owned by EMI. Are we trusting the same promotion engine behind Lady Gaga, JayZ, Niki Manji and Rhinna
+		to advise our worship leaders about which songs we should sing to bring glory to God. 
+
+		<p>With omysoul encourage people to sing old songs (hymns) that are no longer under copyright. 
+		We also encourage believers to create
+		new songs and release them under licences that give permisson for others to sing them and build on them. Charles Wesley never charged
+		anyone to sing his songs. Yet worship leaders today are stealing Wesley's lyrics making a few minor changes and putting
+		their own name at the bottom and collecting royalties.<p>
+
+		<h2>Creative Commons Licences</h2>
+
+		<p>What is exciting is that licences exist that allow people to write songs and music that others can sing and build upon freely.
+		<iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/io3BrAQl3so" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<p>We suggest that Creative Commons licences or releasing to public domain are more suitable for worship.
+		
+		<p>With omysoul we want to see people collaborate. A songwriter might laydown a vocal track in their quiet time.
+		The hardware for creating CD quality recordings is now very in expensive. Other
+		artists can then independantly layer on keys, drums, backing vocals and strings. 
+		I hope we can create an online tool that makes it easy to align tracks and mixed them. Once people have created something
+		they are happy with it can be taken to the streets. This way when we hit the streets there is a core group of people
+		who know how to sing and play a new song. If we record the music which is sung on the street we can then upload it
+		straight to YouTube without getting take down notices.
+
+		<blockquote>Cast your bread upon the waters, for after many days you will find it again. <i>(Ecclesiastes 11:1)</i></blockquote>
+
+		<h2>Funding</h2>
+
+		<p>People will argue that song writers must be able to make a living. I would agree with this.
+		But how we raise funds should not compromise the ability of believers to sing praise to God in any and every situation.
+		Song writers are currently saying every time you worship God with my song you must pay me. This adds friction to worship it means
+		God does not get glory he otherwise would have got. Amazon found that
+		a 1 second delay in loading their website would cost them 10% of their profit. Anyone who works on the web knows
+		that if we make something even slightly more inconvient we will stop it from happening. We are doing exactly what we
+		should do if wanted to stop God's praise spreading and filling the earth.
+
+		<p>Taxing every time a song is sung adds a huge amout of bureaucracy to worship. Even if the cost in money was tiny
+		the cost in time would still be too high. We need to think about how we fund the creation of worship at its source,
+		rather than trying to claw back money every time it is used after its creation. 
+
+		<p>In software everyone knows if you write something great and you charge for it, in a few days time someone else will 
+		do the same thing and release it for free. So we all chose to make what we create free. The open source
+		community has now created over 100 millions of pieces of software that are free for anyone to copy the code. People can adapt it and learn from
+		and build their own products with it. By giving away the hanful of thing I write for free I have the benefit of being able
+		to use the millions of things other people write for free. 
+		
+		These developers are mostly not Christians but they have chosen to give up their rights.
+		They have worked out that in the end this benefits them. They have discovered the truth of this scripture:
+
+		<blockquote>Cast your bread upon the waters, for after many days you will find it again. <i>(Ecclesiastes 11:1)</i></blockquote>
+
+		<p>Writing open source has enabled me to collaborate with and learn from some of the best people in my industry.
+		Its enabled employers to find me and know what I can do. It works for individuals but it also works for big companies.
+		The code behind Chrome, Firefox, Edge and Safari is open for anyone to copy. Even though these companies have spent
+		millions developing their browsers they give away most of the code for free and anyone can create their own browser using it.
+
+		<p>It seems crazy to me that Christian musicians, behave less generously than non-Christian developers.
+		The lyrics of Christian songs prove the authors know it is right to give up their rights to futher the gospel.
+		They just stop short of actually doing it. I think Jesus would have put it like this:
+
+		<blockquotes>"You hypocrites"</blockquotes>
+
+		<ul>
+			<li>Large churches that employ fulltime worship leaders should pay them enough that they can live without the need
+			to collect royalties from lyrics each and every time their songs are sung.
+			Lyrics to these songs can be released freely as a service to the rest of the church. This allows the most gifted worship leaders
+			to be professional and work fulltime. Many of these churches teach the principle of tithing. If worship is funded out of
+			the tithe and offerings it will save the Church vast amount of money compared to selling it to Mammon when it is written
+			 and buying it back every time it is sung.
+			<li>Crowd funding is a way a song writing worship leader can transition from being amature to fulltime professional. This is
+			how many YouTubers make money. They start a channel as a hobby, it grows popular. They don't want to put up adverts
+			so they seek voulenerily contributions from the people that watch their channel. I watch the channel of man building a marble
+			machine that plays music, he currently has over 6,000 who pay for the content to be produce even though released for free. He is not
+			Christian but listen to his heart and contrast it with what we see in the church:
+
+			<iframe width="560" height="315" style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/2xgWuw3TOJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			
+			<p>You see bit at the begining where he plays all the different instraments and then puts them together. I think we can do the same thing just with
+			different people laying down the different tracks in their bedroom. Then we go out with 100 people and perform it in the street.
+			<li>
+		</ul>
+
+		<h2></h2>
+
+		<p>You may think from reading this that I hate all modern Christian music. This is not the case
+		I owe a lot to it. The vision of omysoul is birthed from the songs I was singing when I got saved in 1995.
+		These songs prophetically talked about a time when the streets would be filled with people singing about Jesus.
+		This vision has never left me:
+		
+		<ul>
+			<li>I hear they're singing in the streets that Jesus is alive
+			<li>Open up the doors let the music play, let the streets resound with singing
+			<li>Bring them from the west, sons and daughters, call them for Your praise
+			<li>Hallelujah, People everywhere are singing, Hallelujah
+		</ul>
+
+		<p>I would love to see some of these artist joining in the vision of omysoul. They have the cap
+
+		<p>I would ask you to pray for Christians artists and to challenge them. We all make compromises in our faith and
+		we need people who challenge us. No song writer wants to hear when they get to heaven that they have already recieved full reward on earth
+		for each time their song was sung. 
+`
+  },
+  {
+    title: "Do you remember when it was just the three of us?",
+    slug: "three-of-us",
+    html: `
+		<iframe style="margin: 0 auto; display: block" width="560" height="315" src="https://www.youtube.com/embed/oyPE7RmquPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<p>On the last Saturday of January 2020 we had the first public openair worship using omysoul with a battery powered projector.
+			This is a bit of a proof of concept. Two friends and I headed down to the Scottish Parliament to test the worship app.
+			During the week I had been working on allowing the app to display Bible verses (not just song lyrics).
+			I wanted to test what it was like to use the app to preach with as well as having the first time using it for worship.</p>
+
+			<p>As I am preaching I am controlling which Bible verses appear on the projector screen with my phone.
+			I can also see notes on those verses to help jog my memory while I am preaching. There are no wires the projector is using
+			a wifi hotspot on my phone to be online.
+
+			<p>None of those present are worship leaders so please excuse our singing. <i>Please pray God will give us some great worship leaders
+			with a heart to go out (if that is you, please contact via the <a href="/newsletter">newsletter signup</a>).</i></p>
+
+			<p>None the less as a technical test it was successful and we had a great time of fellowship and encouragement.
+			I left a portable sound recorder recording and was really pleased with the quality of the recording (most of the background noise is an air conditioner).
+			This means if we use songs with no copyright we should be able to do a podcast.</p>
+
+			<p>I am hoping that next time I go out I can get the app working so it can display images too. That way I can do a proper presentation.
+`
+  }
+].filter(x => x === 0);
 
 posts.forEach(post => {
-	post.html = post.html.replace(/^\t{3}/gm, '');
+  post.html = post.html.replace(/^\t{3}/gm, "");
 });
 
 export default posts;

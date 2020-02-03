@@ -9,23 +9,23 @@ independence, pride and climate change so I figure it can't be impossible to see
 large crowds gather in our age for Jesus too. I am hoping to connect with other
 people around the world with the same desire.
 <p />
-I am a web developer and omysoul is a tool enable a crowd of people to see the
-same song lyrics on the screens of mobile phones, TVs, tablets and projectors.
-The aim is to make organising open air worship as effortless as someone posting
-on Twitter:
+I am a web developer and
+<b>omysoul</b>
+is a tool enable a crowd of people to see the same song lyrics on the screens of
+mobile phones, TVs, tablets and projectors. The aim is to make organising open
+air worship as effortless as someone posting on Twitter:
 <p />
 "I am heading to Bristo Square 5pm with a guitar who wants to join?"
 <p />
 Friends from various churches and different personal networks would join.
 Between songs some people might give short exhortations and as they do this
-Bible verses or pictures would appear on phone screens or are projected on
-walls. As people pass a few believers from other churches stop and join the
-group and find out what is going on. Contacts are exchanged and they join next
-time.
+Bible verses or pictures would appear on phone screens or be projected on walls.
+As people pass a few believers from other churches stop and join the group and
+find out what is going on. Contacts are exchanged and they join next time.
 <p />
 This is not meant to be a tool for carefully staged flash mobs but for open
 worship where people learn new songs and passers by feel drawn to participate
-not just spectate. Jesus wants worshiper that worship in Spirit and truth he is
+not just spectate. Jesus wants worshipper that worship in Spirit and truth he is
 not looking for a show. When we worship him we feel his presence and passers by
 will too.
 <p />
