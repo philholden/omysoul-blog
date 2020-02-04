@@ -9,25 +9,40 @@
 
 const posts = [
   {
-    title: "Copyright and Christian music",
-    slug: "lord-of-scotland",
+    title: "Worship and copyright",
+    slug: "worship-and-copyright",
     html: `
-		<p>Part of the vision of omysoul is to enable worship on the street with minimal planning.
-		One problem with this is that nearly all modern worship artists (whose songs we sing in churches) have sold all the rights to their songs.
-		Small independant Christian labels have mostly now been bought by big secular multinational media conglomerates.
+		<p>The vision of omysoul is to see people out on the street worshiping Jesus. To solve the technical
+		problems with this I have written an app that allows lyrics to be displayed simultaionously on mobile
+		phone screens and battery powered projectors.
+		
+		<img src="/img/princess-street.jpg" style="width: 100%; margin: 16px 0" />
+		
+		<p>One mobile phone controls which verse is displayed on the projector and other phone
+		screens. Organising an outdoor worship event is as simple as putting
+		a post on social media with a location and a time and seeing who turns up.
+
+		One problem with this is that nearly all modern worship artists (whose songs we sing in churches) have sold all the rights to their songs
+		to big secular multinational media conglomerates.
 
 		<p>While most Christian artists sing words to the effect:
     <ul>
-		<li>I'm giving it all away
+		<li>I'm giving it all away, away
 		<li>I surrender all
 		<li>Nothing do I withhold
 		<li>Freely we must give
 		<li>You can have it all Lord
 		<li>I'm laying down my rights
 </ul>
-		<p>The reality is that all the rights to these songs are reserved. These worship leaders extract money every time their songs are sung. 
-		What is worse is who the rights have been sold to: the same media organisations that promote Rihanna, JayZ and Lady Gaga. We are
-		relying on the ones pumping out sewage to corrupt the world to provide fresh drinking water for our churches. Our
+		<p>The reality is that all the rights to these songs are reserved and sold. These worship leaders extract money every time their songs are sung.
+		They do so in a way that is highly inefficient. What is worse is who the rights have been sold to: the same media organisations that represent: 
+		<ul>
+		<li>Rihanna
+		<li>Nicki Minaj
+		<li>JayZ
+		<li>Lady Gaga
+		</ul>
+		We are relying on the ones pumping out sewage to corrupt the world to provide fresh drinking water for the Church. Our
 		worship songs have been bought by Mammon and now we need to ask his permission to sing them.
 		
 		<p>Seporate licences are need for:
@@ -35,7 +50,7 @@ const posts = [
 		<li>Sheet music
 		<li>Lyrics displayed on the projector
 		<li>Outside performance
-		<li>Publicly playing music you have bought
+		<li>Publicly playing music when you own
 		<li>Recording (to put on YouTube)
 		</ul>
 
@@ -51,8 +66,8 @@ const posts = [
 
 		<h2>Worship as a product</h2>
 
-		The Christian Copyright Licensing International (CCLI) is the organisation that deals with the licensing of most Christian music
-		defines their role like this on its website: 
+		The Christian Copyright Licensing International (CCLI) is the organisation that deals with the licensing of most Christian music.
+		They describe their role like this on its website: 
 
 		<blockquote>It’s about treating content owners and artists fairly, legally,
 		and honestly while at once discovering new markets for <b>excellent product</b>.</blockquote>
@@ -67,11 +82,40 @@ const posts = [
 		
 		<p>A licence that charged a flat fee per worshipper per song would destroy the need for all the other licences.
 		CCLI recieves disproportionaly more money from small fellowships. Church plants under 15 people pay <b>36 times</b> more per
-		head per year than mega churches of 9999. One off events pay <b>25 times</b> more than weekly church meetings. Songs sung by
+		head per year than mega churches of 10000. One off events pay <b>25 times</b> more than weekly church meetings. Songs sung by
 		14 people in a one off event in the open air cost a staggering <b>900 times</b> more than the
 		same songs sung in a mega church. The current price structure is a tax on mission and church planting. The pricing structure
-		also implies a large proportion of the CCLI fee is actually being paid to them as an administration fee and not reaching the artists.
+		also implies a vast proportion of the CCLI fee goes to the CCLI as an administration fee and does not reach artists.
 
+		I approached the company that has bought the rights to most Christian music to see if they would agree to license
+		music directly at a rate simular to that that CCLI charges to mega churches.
+		
+		<blockqoute>Thank you for your email. Unfortunately, at this time, we cannot grant you a license for your app. 
+		The royalty payments are dependent on too many outside variables and your reliance on the CCLI rate ignores
+		that CCLI licensees pay a subscription fee and that the rates are based on the size of the congregation. 
+		If you find a way to <b>monetize</b> your app on more solid variables, I would be happy to review that request.</blockquote>
+
+		<p>I really do not want to <b>monitize</b> my app. The plan I had suggested here was to use Amazon affilaite links
+		to album tracks of musics sung to generate money to pay the licence fee for the lyrics. I hated doing this as it felt
+		like a horrible compromise.
+
+		<blockqoute>[this] won’t suffice to cover the royalty payments for the lyric use.</blockquote>
+
+		<p>There is only one time we see Jesus being physically violent when he came to earth as a human.
+		There must have been so much he hated about what had become of the world he had created. But one
+		thing was too much for him to contain his anger.
+
+		<p>This was to see merchandise in the temple. People needed animals to sacrifice to recieve God forgiveness.
+		In this way people showed they knew they themselves had broken God's law and diserved death and hell. The animal
+		death pointed to Jesus who died on the cross to take the punnishment for our sins so we could go free.
+		
+		<p>People who lived far from the temple could not bring their own animals so they would sell them, travel to the temple and use
+		the money to buy animals their. However the priest soon found out they had a monoply so they
+		charged an extorate price of the animals.
+
+
+		£5 book
+		0 unit cost
 		<h2>Freedom!!!</h2>
 
 		<p>For this reason omysoul wants to opt out of this system. If Mammon paid for a few decades of Christian songs
@@ -87,18 +131,19 @@ const posts = [
 		<p>There is something a bit lazy about Christians
 		all round the world singing songs only written by a handful of Christians. There is also something dangerous, in
 		that it is now secular multinations that have the marketing budgets that propel these <b>excellent products</b>
-		into the Christian music scene.
+		into the Christian music scene. These multinational are pushing their own set of values to which their sub-brands
+		will have to bend. 
 
-		<p>Worship Together on the surface looks like an independant site that exists simply to teach people to play new worship songs.
+		<p>Worship Together on the surface looks like an independant site that exists simply to teach people how to find and play new worship songs.
 		This is how it describes itself:
 
 		<blockquote>Worship Together is the best and most <b>comprehensive resource</b> on the web for worship leaders,
 		 worship bands and worship teams.</blockquote>
 
-		<p>However it appears from the Capitol Christian Music Group (CCMG) website that Worship Together is actually owned by them.
-		If this is the case what appears to be a <b>comprehensive resource</b> for worship leaders may actually serve as a marketing tool.
-		Capitol Christian Music Group is owned by EMI. Are we trusting the same promotion engine behind Lady Gaga, JayZ, Niki Manji and Rhinna
-		to advise our worship leaders about which songs we should sing to bring glory to God. 
+		<p>However it appears from the Capitol Christian Music Group (CCMG) website that a brand called "Worship Together" is actually owned by them.
+		If this is the same "Worship Together" what appears to be a <b>comprehensive resource</b> for worship leaders may actually be a marketing tool.
+		Capitol Christian Music Group is owned by EMI. Is the same promotion engine behind Lady Gaga, JayZ, Niki Manji and Rhinna
+		advising our worship leaders about which songs we should sing in out churches. 
 
 		<p>With omysoul encourage people to sing old songs (hymns) that are no longer under copyright. 
 		We also encourage believers to create
@@ -223,7 +268,7 @@ const posts = [
 			<p>I am hoping that next time I go out I can get the app working so it can display images too. That way I can do a proper presentation.
 `
   }
-].filter((x, i) => x === 0);
+].filter((x, i) => i === 1);
 
 posts.forEach(post => {
   post.html = post.html.replace(/^\t{3}/gm, "");
