@@ -46,34 +46,28 @@
   for the newsletter.
 </p>
 
+<div class="videoWrapper">
+  <iframe
+    style="margin: 1em auto; display: block"
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/ty8BoC2Tly8"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope;
+    picture-in-picture"
+    allowfullscreen />
+</div>
+
 <p>
   If you live in Edinburgh UK please put that in the location box and I will let
   you know about the first open air events. We will try to connect clusters of
   people in other areas.
 </p>
 
-<iframe
-  width="540"
-  height="960"
-  src="https://8958425c.sibforms.com/serve/MUIEAMKAHraziho8bSNnrHK8FdhYSq0XMeXtpLQ0s8MSSKU8U0Y4KkOFXU40q14cmzFumK23xvL2yRm47L8yObKoJEeGy-9dOLmXLbkCXmDukgIPnSBsqirj-RP7_1USwpBJhAARVK7-kawixBNK6cTur2Zmbn1gF_xUzkVa8iFuHmMKjSvRLIdrcFwD5fgRYcrHrYdVR-affTFz"
-  frameborder="0"
-  scrolling="auto"
-  allowfullscreen
-  style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;" />
-
 <p>
   Once I have a guide for you to set up your free song server I will announce it
   in the newsletter. For the time being if you have comments or questions post
   them in the comments on the YouTube video.
 </p>
-
-<iframe
-  style="margin: 1em auto; display: block"
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/ty8BoC2Tly8"
-  frameborder="0"
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen />
 
 <!--162.255.119.224-->
