@@ -9,8 +9,63 @@
 
 const posts = [
   {
-    title: "Worship and copyright",
-    slug: "worship-and-copyright",
+    title: "February's goal: 20 worshiping in the streets",
+    slug: "februarys-goal-20-worshiping-in-the-streets",
+    html: `<img src="/img/princess-street.jpg" style="width: 100%; margin: 16px 0" />
+
+		<p>Omysoul is a worship tool. Its aim is to gather thousands of people into the streets to worship Jesus.
+		One phone is used to control the verse displayed on the phone screens of everybody singing. After dusk (which is 3PM
+		in our Scottish winters) a battery powered projector is also used to throw lyrics against walls.
+
+		<p>Join us by the Duke of Wellington Statue 
+		(<a href="https://www.google.com/maps/place/Wellington,+Edinburgh+EH1+3YY/@55.9536861,-3.1896701,16.77z/data=!4m8!1m2!2m1!1sduke+wellinton+statue,+edinburgh!3m4!1s0x4887c78e53e1243d:0x6f13cbaac7e1a454!8m2!3d55.9534934!4d-3.1891693" target="_blank">Map</a>) on Princess St.
+		The projector battery only lasts one hour so please come on time:
+
+		<h2>Saturday 15th February 5pm</h2>
+		<h2>Saturday 22nd February 5pm</h2>
+		
+		<p>The values of the world have drifted far away from the values of God. It is tempting for Christians to be silent and embarased about a
+		God who is so different. But thats the essence of the word <b>"Holy"</b> is means <b>"different"</b>.
+		And God is not just "Holy" he is <b>"Holy, Holy, Holy"</b> he is <b>"different, different, different"</b>. And we have been choosen to be:
+
+		<blockquote>a <b>holy</b> nation, a <b>peculiar</b> people;</blockquote>
+		
+		<p>And this is not so we can hide our differentness, but that we should:
+		
+		<blockquote>... show forth the praises of him who has called us out
+		of darkness into his marvellous light; <br><i>(1 Peter 2:9)</i></blockquote>
+
+		<img src="/img/light.jpg" style="width: 100%; margin: 16px 0" />
+
+		<p>For Christmas time 2020 we want to see multiple gatherings of tens, hundreds and and some of thousands in the streets
+		of cities and towns around the world. All singing praise to the one who sent his Son into the world to save it from its sin.
+		
+		<p>A journey of a thousand miles starts with a single step. In January this year we were able to successfully test the technology
+		out in the street. Now in February we have the goal to gather 20 in the street at one time to praise. This
+		may not sound like loads. But to me it is huge because its more people than I think I have influence over. Ultimately for this to
+		grow every person that comes must also be a gatherer. Please share this post with friends who are passionate about Jesus. The
+		goal for March will be 40.
+
+		<p><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="Come and worship on the street. Duke of wellington Statue 5pm this Saturday." data-url="https://omysoul.io/blog/februarys-goal-20-worshiping-in-the-streets" data-hashtags="omysoul" data-related="omysoul6" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+		<div><!-- social media share buttons -->
+<a href="http://www.facebook.com/" onclick="window.location = 'http://www.facebook.com/share.php?u=' + encodeURIComponent(window.location); return false"><img src="http://i.imgur.com/aLnZg.png" alt="Share on Facebook" border="0" /></a>
+
+<a href="http://twitter.com/" onclick="window.location = 'http://twitter.com/home/?status=' + encodeURIComponent(window.location); return false"><img src="http://i.imgur.com/oFrLG.png" alt="Tweet This" border="0" /></a>
+
+<a href="http://www.reddit.com/submit" onclick="window.location = 'http://www.reddit.com/submit?url=' + encodeURIComponent(window.location); return false"><img src="http://i.imgur.com/7Xlq0.png" alt="Share on reddit" border="0" /></a>
+
+<a href="http://pinterest.com/" onclick="window.location = 'http://pinterest.com/pin/create/button/?url=' + encodeURIComponent(window.location); return false"><img src="http://i.imgur.com/5grYc.png" alt="Share on Pinterest" border="0" /></a>
+
+<div class="social-buttons" data-url="http://www.deafway.jp/"></div>
+
+
+</div><!--/ social media share buttons -->
+`
+  },
+  {
+    title: "Selling the soul - Worship and copyright",
+    slug: "selling-the-soul-worship-and-copyright",
     html: `
 		<p>The vision of omysoul is to see people out on the street worshiping Jesus. To solve the technical
 		problems with this I have written an app that allows lyrics to be displayed simultaionously on mobile
@@ -23,7 +78,8 @@ const posts = [
 		a post on social media with a location and a time and seeing who turns up.
 
 		One problem with this is that nearly all modern worship artists (whose songs we sing in churches) have sold all the rights to their songs
-		to big secular multinational media conglomerates.
+		to big secular multinational media conglomerates. I really want the app to be free to use. No passers by is going to whip out credit card
+		to see song lyrics.
 
 		<p>While most Christian artists sing words to the effect:
     <ul>
@@ -34,15 +90,16 @@ const posts = [
 		<li>You can have it all Lord
 		<li>I'm laying down my rights
 </ul>
-		<p>The reality is that all the rights to these songs are reserved and sold. These worship leaders extract money every time their songs are sung.
-		They do so in a way that is highly inefficient. What is worse is who the rights have been sold to: the same media organisations that represent: 
+		<p>The reality is that all the rights to these songs are reserved. These worship leaders extract money every time their songs are sung.
+		They do so in a way that is highly inefficient. What is worse is who the rights
+		have been sold to: the same media organisations that represent: 
 		<ul>
 		<li>Rihanna
 		<li>Nicki Minaj
 		<li>JayZ
 		<li>Lady Gaga
 		</ul>
-		We are relying on the ones pumping out sewage to corrupt the world to provide fresh drinking water for the Church. Our
+		<p>We are relying on the ones pumping out sewage to corrupt the world to provide fresh drinking water for the Church. Our
 		worship songs have been bought by Mammon and now we need to ask his permission to sing them.
 		
 		<p>Seporate licences are need for:
@@ -50,8 +107,8 @@ const posts = [
 		<li>Sheet music
 		<li>Lyrics displayed on the projector
 		<li>Outside performance
-		<li>Publicly playing music when you own
-		<li>Recording (to put on YouTube)
+		<li>Publicly playing music when you own the download
+		<li>Recording a performance (to put on YouTube)
 		</ul>
 
 		<p>You also need to have a covering organisation and to know the numbers that will be present.
@@ -67,7 +124,7 @@ const posts = [
 		<h2>Worship as a product</h2>
 
 		The Christian Copyright Licensing International (CCLI) is the organisation that deals with the licensing of most Christian music.
-		They describe their role like this on its website: 
+		They describe their role like this on their website: 
 
 		<blockquote>It’s about treating content owners and artists fairly, legally,
 		and honestly while at once discovering new markets for <b>excellent product</b>.</blockquote>
@@ -78,44 +135,125 @@ const posts = [
 
 		<p>There is a different licence for every type of organisation and different licence for every possible use of a song.
 		When I ask about a suitable licence that allows small numbers of believers from different churches to worship together
-		at a reasonable price I understand why I get no answer.
+		at a reasonable price, I understand why I get no answer.
 		
 		<p>A licence that charged a flat fee per worshipper per song would destroy the need for all the other licences.
 		CCLI recieves disproportionaly more money from small fellowships. Church plants under 15 people pay <b>36 times</b> more per
-		head per year than mega churches of 10000. One off events pay <b>25 times</b> more than weekly church meetings. Songs sung by
-		14 people in a one off event in the open air cost a staggering <b>900 times</b> more than the
+		head per year than mega churches of 10000. A one off event lasting a week pays <b>25 times</b> more (per song per person) than weekly church meetings.
+		Songs sung by 14 people in a one off event in the open air cost a staggering <b>450 times</b> more than the
 		same songs sung in a mega church. The current price structure is a tax on mission and church planting. The pricing structure
-		also implies a vast proportion of the CCLI fee goes to the CCLI as an administration fee and does not reach artists.
+		also implies a large proportion of the CCLI fee goes to the CCLI as an administration fee and does not reach artists.
 
-		I approached the company that has bought the rights to most Christian music to see if they would agree to license
-		music directly at a rate simular to that that CCLI charges to mega churches.
+	<div style="display: flex; justify-content: space-around">
+	
+	<style>
+	table {
+		border-collapse: collapse;
+	}
+	th {
+		color: rgb(226, 124, 0);
+		font-weight: bold;
+		padding: 16px 16px;
+		text-align: left;
+	}
+	td
+	{
+		padding: 8px 16px;
+	}
+	tr:nth-child(2n) td {
+    background: rgb(247, 247, 247);
+	}
+	tr:nth-child(2n+1) td {
+    background: rgb(217, 217, 217);
+	}
+	
+	</style>
+	<table>
+		<thead>
+		<tr><th colspan=2 style="background: rgb(226, 124, 0); color: white; font-weight: normal">Annual Licence</th></tr>
+		<tr><th>Size</th><th>Annual Cost</th></tr>
+		</thead>
+		<tbody>
+    <tr><td>1-14</td><td>£54.00</td></tr>
+<tr><td>15-49</td><td>£78.00</td></tr>
+<tr><td>50-99</td><td>£136.00</td></tr>
+<tr><td>100-249</td><td>£222.00</td></tr>
+<tr><td>250-499</td><td>£308.00</td></tr>
+<tr><td>500-999</td><td>£406.00</td></tr>
+<tr><td>1,000-1,499</td><td>£498.00</td></tr>
+<tr><td>1,500-2,999</td><td>£616.00</td></tr>
+<tr><td>3,000-4,999</td><td>£782.00</td></tr>
+<tr><td>5,000-9,999</td><td>£1,068.00</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th colspan=2 style="background: rgb(0, 129, 109);; color: white; font-weight: normal">Event Licence</th></tr>
+<tr><th>Size</th><th>Annual Cost</th></tr>
+</thead>
+<tbody>
+<tr><td>1-49</td><td>£39.00</td></tr>
+<tr><td>50-99</td><td>£68.00</td></tr>
+<tr><td>100-249</td><td>£111.00</td></tr>
+<tr><td>250-499</td><td>£154.00</td></tr>
+<tr><td>500-999</td><td>£203.00</td></tr>
+<tr><td>1,000-1,499</td><td>£249.00</td></tr>
+<tr><td>1,500-2,999</td><td>£308.00</td></tr>
+<tr><td>3,000-4,999</td><td>£391.00</td></tr>
+<tr><td>5,000-9,999</td><td>£534.00</td></tr>
+</tbody>
+</table>
+</div>
+ 
+		<p>Working in computing I find this pricing structure hard to justify for what should be a fairly automated process.
+		The CCLI collects statistics and money from a pool of users and then distributes the money to the artists according to
+		the statistics. All the maths can be automated, as can sign up and payments. For Amazon, Google and Microsoft's cloud services
+		you pay a pretty flat fee. Use one server for one year and you pay the same as using 365 servers for one day.
+		One person singing a song on 365 days should cost the same as 356 people singing a song on one day. 
+
+		<p>I approached the company that has bought the rights to most Christian music to see if I they would agree to license
+		music directly at a rate simular to that the CCLI charges to mega churches. In essence to charge all the users of
+		my app as if they were all part of a mega church consisting of all the users. The plan I had suggested here, was to use
+		Amazon affilaite links, to the album tracks of music sung, to generate money from referal fees, to pay the licence fee for the lyrics.
+		I hated doing this as it felt like a horrible compromise. This was the reply they gave:
 		
-		<blockqoute>Thank you for your email. Unfortunately, at this time, we cannot grant you a license for your app. 
+		<blockquote>[this] won’t suffice to cover the royalty payments for the lyric use.</blockquote>
+
+		<blockquote>Thank you for your email. Unfortunately, at this time, we cannot grant you a license for your app. 
 		The royalty payments are dependent on too many outside variables and your reliance on the CCLI rate ignores
 		that CCLI licensees pay a subscription fee and that the rates are based on the size of the congregation. 
 		If you find a way to <b>monetize</b> your app on more solid variables, I would be happy to review that request.</blockquote>
 
-		<p>I really do not want to <b>monitize</b> my app. The plan I had suggested here was to use Amazon affilaite links
-		to album tracks of musics sung to generate money to pay the licence fee for the lyrics. I hated doing this as it felt
-		like a horrible compromise.
-
-		<blockqoute>[this] won’t suffice to cover the royalty payments for the lyric use.</blockquote>
+		<p>I really do not want to <b>monitize</b> this app, I hate the idea of selling worship. 
 
 		<p>There is only one time we see Jesus being physically violent when he came to earth as a human.
-		There must have been so much he hated about what had become of the world he had created. But one
-		thing was too much for him to contain his anger.
+		There must have been so much he hated about what had become of the world he had created good. But one
+		thing was too much for him to wait until his second coming to contain his anger.
 
-		<p>This was to see merchandise in the temple. People needed animals to sacrifice to recieve God forgiveness.
-		In this way people showed they knew they themselves had broken God's law and diserved death and hell. The animal
-		death pointed to Jesus who died on the cross to take the punnishment for our sins so we could go free.
+		<img src="/img/cleanse-temple.jpg" style="width: 100%; display: block; margin-top: 16px">
+		
+		<blockquote>In the temple courts he found men selling cattle, sheep and doves, and others sitting at tables exchanging money. 
+So he made a whip out of cords, and drove all from the temple area, both sheep and cattle; he scattered the coins of the money changers and overturned their tables.
+To those who sold doves he said, "Get these out of here! How dare you turn my Father's house into a market!" 
+His disciples remembered that it is written: "Zeal for your house will consume me." <i><nobr>(John 2:14-17)</nobr></i></blockquote>
+
+		<p>People needed animals to sacrifice to recieve God's forgiveness.
+		In this way people showed they knew they had broken God's law and diserved death and hell. The animal
+		death pointed to Jesus, who died on the cross to take the punnishment human sin so they could go free.
 		
 		<p>People who lived far from the temple could not bring their own animals so they would sell them, travel to the temple and use
-		the money to buy animals their. However the priest soon found out they had a monoply so they
-		charged an extorate price of the animals.
+		the money to buy animals there. However the priest soon found out they had a monoply so they
+		charged an extortionate price of the animals.
+
+		<p>That man corrupts the faith found in the Bible does prove that the Bible is false.
+		It show that the Bible's diagnosis of the condition of man is true.
+    That man corrupts religion only proves that he is corrupt not God.
+		Jesus tackelled corruption and hyprocracy head on he did not loose his faith over it.
 
 
-		£5 book
-		0 unit cost
+	
+
 		<h2>Freedom!!!</h2>
 
 		<p>For this reason omysoul wants to opt out of this system. If Mammon paid for a few decades of Christian songs
@@ -155,12 +293,25 @@ const posts = [
 
 		<p>What is exciting is that licences exist that allow people to write songs and music that others can sing and build upon freely.
 		<iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/io3BrAQl3so" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		<p>We suggest that Creative Commons licences or releasing to public domain are more suitable for worship.
+		<p>We suggest that Creative Commons licences or releasing to public domain are more suitable for worship. The track below is recorded by
+		a band called Recent Rainfall it was release under a Creative Commons licence. This means I am free to place it on this
+		website or sing it in the street. I can use it for mission and share it with non-Christians. Non-Christians reading this site
+		now may even chose to click on it.
+		Though the track is released under a Creative Commons licence they have also registered the
+		track with the CCLI. This means no one is obligated to pay to sing the song, but if they happen to sing it in a church that already has 
+		a CCLI licence then Recent Rainfall will get a fair share of the CCLI fee the church paid.
+		They have laid down their rights. Have a listen: 
+
+		<audio src="http://edinburghcreationgroup.org/Recent-Rainfall-Declare-Your-Glory.mp3" controls style="margin: 32px auto; display: block">
 		
 		<p>With omysoul we want to see people collaborate. A songwriter might laydown a vocal track in their quiet time.
 		The hardware for creating CD quality recordings is now very in expensive. Other
-		artists can then independantly layer on keys, drums, backing vocals and strings. 
-		I hope we can create an online tool that makes it easy to align tracks and mixed them. Once people have created something
+		artists can then independantly layer on keys, drums, backing vocals and strings. Below is the story of
+		how the songs of one rural Chinese girl sing into a dictaphone, fuelled revival and became the worship songs of tens of
+		millions of people across China.
+
+		<iframe style="display: block; margin: 16px auto 0;" width="560" height="315" src="https://www.youtube.com/embed/xa1saiWejjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<p>I hope we can create an online tool that makes it easy to align tracks and mixed them. Once people have created something
 		they are happy with it can be taken to the streets. This way when we hit the streets there is a core group of people
 		who know how to sing and play a new song. If we record the music which is sung on the street we can then upload it
 		straight to YouTube without getting take down notices.
@@ -223,6 +374,8 @@ const posts = [
 			<li>
 		</ul>
 
+		
+
 		<h2></h2>
 
 		<p>You may think from reading this that I hate all modern Christian music. This is not the case
@@ -242,6 +395,12 @@ const posts = [
 		<p>I would ask you to pray for Christians artists and to challenge them. We all make compromises in our faith and
 		we need people who challenge us. No song writer wants to hear when they get to heaven that they have already recieved full reward on earth
 		for each time their song was sung. 
+
+		Play (silly laws honey)
+		How to Evangelise the world
+		chinese
+		zero unit cost
+		publish
 `
   },
   {
@@ -268,7 +427,7 @@ const posts = [
 			<p>I am hoping that next time I go out I can get the app working so it can display images too. That way I can do a proper presentation.
 `
   }
-].filter((x, i) => i === 1);
+].filter((x, i) => i !== 1);
 
 posts.forEach(post => {
   post.html = post.html.replace(/^\t{3}/gm, "");
