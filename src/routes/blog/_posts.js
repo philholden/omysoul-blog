@@ -43,30 +43,7 @@ const posts = [
 		out in the street (see picture above). Now in February we have the goal to gather 20 in the street at one time to praise. Ultimately for this to
 		grow every person that comes must also be a gatherer. Please share this post with friends who are passionate about Jesus. The
 		goal for March will be 40 people.
-		<script>(function(d, s, id) {
-			var js, fjs = d.getElementsByTagName(s)[0];
-			if (d.getElementById(id)) return;
-			js = d.createElement(s); js.id = id;
-			js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
-			fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));</script>
-	
-		<script>window.twttr = (function(d, s, id) {
-			var js, fjs = d.getElementsByTagName(s)[0],
-				t = window.twttr || {};
-			if (d.getElementById(id)) return t;
-			js = d.createElement(s);
-			js.id = id;
-			js.src = "https://platform.twitter.com/widgets.js";
-			fjs.parentNode.insertBefore(js, fjs);
 		
-			t._e = [];
-			t.ready = function(f) {
-				t._e.push(f);
-			};
-		
-			return t;
-		}(document, "script", "twitter-wjs"));</script>
 
 		<div style="display: flex; align-items: center">
 			<a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
@@ -86,6 +63,7 @@ data-layout="button_count">
 
 <p><a href="https://twitter.com/omysoul6?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @omysoul6</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p><i>Sign up to the newsletter or follow on twitter to be alerted to last minute changes. </i>
+
 `
   },
   {
@@ -432,8 +410,11 @@ His disciples remembered that it is written: "Zeal for your house will consume m
     title: "Do you remember when it was just the three of us?",
     slug: "three-of-us",
     html: `
-		<iframe style="margin: 0 auto; display: block" width="560" height="315" src="https://www.youtube.com/embed/oyPE7RmquPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			<p>On the last Saturday of January 2020 we had the first public openair worship using omysoul with a battery powered projector.
+		
+		<div class="videoWrapper">
+		<iframe src="https://www.youtube.com/embed/oyPE7RmquPU"  width="560" height="349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>	
+		<p>On thee last Saturday of January 2020 we had the first public openair worship using omysoul with a battery powered projector.
 			This is a bit of a proof of concept. Two friends and I headed down to the Scottish Parliament to test the worship app.
 			During the week I had been working on allowing the app to display Bible verses (not just song lyrics).
 			I wanted to test what it was like to use the app to preach with as well as having the first time using it for worship.</p>
