@@ -21,7 +21,7 @@ const posts = [
 		The projector battery only lasts one hour so please come on time:
 
 		<h2>Saturday 15th February 5pm</h2>
-		<h2>Saturday 22nd February 5pm</h2>
+		<h2>Saturday 22nd February 7pm</h2>
 		
 		<p>The values of the world have drifted far away from the values of God. It is tempting for Christians to be silent and embarrassed about a
 		God who is so different. But that's the essence of the word <b>"Holy"</b> is means <b>"different"</b>.
