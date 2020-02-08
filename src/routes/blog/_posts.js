@@ -11,22 +11,21 @@ const posts = [
   {
     title: "February's goal: 20 worshiping in the streets",
     slug: "februarys-goal-20-worshiping-in-the-streets",
-    html: `<img src="/img/princess-street.jpg" style="width: 100%; margin: 16px 0" />
+    html: `<img src="/img/princess-street.jpg" style="width: 100%; margin: 16px 0 0" />
 
 		<p>Omysoul is a worship tool. Its aim is to gather thousands of people into the streets to worship Jesus.
 		One phone is used to control the verse displayed on the phone screens of everybody singing. After dusk (which is 3PM
 		in our Scottish winters) a battery powered projector is also used to throw lyrics against walls.
 
-		<p>Join us by the Duke of Wellington Statue 
-		(<a href="https://www.google.com/maps/place/Wellington,+Edinburgh+EH1+3YY/@55.9536861,-3.1896701,16.77z/data=!4m8!1m2!2m1!1sduke+wellinton+statue,+edinburgh!3m4!1s0x4887c78e53e1243d:0x6f13cbaac7e1a454!8m2!3d55.9534934!4d-3.1891693" target="_blank">Map</a>) on Princess St.
+		<p>Join us by the Duke of Wellington Statue on Princess St (<a href="https://www.google.com/maps/place/Wellington,+Edinburgh+EH1+3YY/@55.9536861,-3.1896701,16.77z/data=!4m8!1m2!2m1!1sduke+wellinton+statue,+edinburgh!3m4!1s0x4887c78e53e1243d:0x6f13cbaac7e1a454!8m2!3d55.9534934!4d-3.1891693" target="_blank">Map</a>).<br>
 		The projector battery only lasts one hour so please come on time:
 
 		<h2>Saturday 15th February 5pm</h2>
 		<h2>Saturday 22nd February 5pm</h2>
 		
-		<p>The values of the world have drifted far away from the values of God. It is tempting for Christians to be silent and embarased about a
-		God who is so different. But thats the essence of the word <b>"Holy"</b> is means <b>"different"</b>.
-		And God is not just "Holy" he is <b>"Holy, Holy, Holy"</b> he is <b>"different, different, different"</b>. And we have been choosen to be:
+		<p>The values of the world have drifted far away from the values of God. It is tempting for Christians to be silent and embarrassed about a
+		God who is so different. But that's the essence of the word <b>"Holy"</b> is means <b>"different"</b>.
+		And God is not just "Holy" he is <b>"Holy, Holy, Holy"</b> he is <b>"different, different, different"</b>. And we have been chosen to be:
 
 		<blockquote>a <b>holy</b> nation, a <b>peculiar</b> people;</blockquote>
 		
@@ -35,32 +34,58 @@ const posts = [
 		<blockquote>... show forth the praises of him who has called us out
 		of darkness into his marvellous light; <br><i>(1 Peter 2:9)</i></blockquote>
 
-		<img src="/img/light.jpg" style="width: 100%; margin: 16px 0" />
+		<img src="/img/light.jpg" style="width: 100%; margin: 16px 0 0" />
 
-		<p>For Christmas time 2020 we want to see multiple gatherings of tens, hundreds and and some of thousands in the streets
+		<p>For Christmas time 2020 we want to see multiple gatherings of tens, hundreds and some of thousands in the streets
 		of cities and towns around the world. All singing praise to the one who sent his Son into the world to save it from its sin.
 		
 		<p>A journey of a thousand miles starts with a single step. In January this year we were able to successfully test the technology
-		out in the street. Now in February we have the goal to gather 20 in the street at one time to praise. This
-		may not sound like loads. But to me it is huge because its more people than I think I have influence over. Ultimately for this to
+		out in the street (see picture above). Now in February we have the goal to gather 20 in the street at one time to praise. Ultimately for this to
 		grow every person that comes must also be a gatherer. Please share this post with friends who are passionate about Jesus. The
-		goal for March will be 40.
+		goal for March will be 40 people.
+		<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+	
+		<script>window.twttr = (function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0],
+				t = window.twttr || {};
+			if (d.getElementById(id)) return t;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = "https://platform.twitter.com/widgets.js";
+			fjs.parentNode.insertBefore(js, fjs);
+		
+			t._e = [];
+			t.ready = function(f) {
+				t._e.push(f);
+			};
+		
+			return t;
+		}(document, "script", "twitter-wjs"));</script>
 
-		<p><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="Come and worship on the street. Duke of wellington Statue 5pm this Saturday." data-url="https://omysoul.io/blog/februarys-goal-20-worshiping-in-the-streets" data-hashtags="omysoul" data-related="omysoul6" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		<div style="display: flex; align-items: center">
+			<a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
+				class="twitter-share-button"
+				data-size="large"
+				data-text="Come and worship on the street. Duke of wellington Statue 5pm, Edinburgh, Saturday 15th & 22nd Feb."
+				data-url="https://omysoul.io/blog/februarys-goal-20-worshiping-in-the-streets"
+				data-hashtags="omysoul" data-related="omysoul6" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <div style="width: 8px; height: 2px;"></div>
+		<div class="fb-share-button" 
+data-href="https://omysoul.io/blog/februarys-goal-20-worshiping-in-the-streets" 
+data-layout="button_count">
+</div>
 
-		<div><!-- social media share buttons -->
-<a href="http://www.facebook.com/" onclick="window.location = 'http://www.facebook.com/share.php?u=' + encodeURIComponent(window.location); return false"><img src="http://i.imgur.com/aLnZg.png" alt="Share on Facebook" border="0" /></a>
 
-<a href="http://twitter.com/" onclick="window.location = 'http://twitter.com/home/?status=' + encodeURIComponent(window.location); return false"><img src="http://i.imgur.com/oFrLG.png" alt="Tweet This" border="0" /></a>
+</div>
 
-<a href="http://www.reddit.com/submit" onclick="window.location = 'http://www.reddit.com/submit?url=' + encodeURIComponent(window.location); return false"><img src="http://i.imgur.com/7Xlq0.png" alt="Share on reddit" border="0" /></a>
-
-<a href="http://pinterest.com/" onclick="window.location = 'http://pinterest.com/pin/create/button/?url=' + encodeURIComponent(window.location); return false"><img src="http://i.imgur.com/5grYc.png" alt="Share on Pinterest" border="0" /></a>
-
-<div class="social-buttons" data-url="http://www.deafway.jp/"></div>
-
-
-</div><!--/ social media share buttons -->
+<p><a href="https://twitter.com/omysoul6?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @omysoul6</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p><i>Sign up to the newsletter or follow on twitter to be alerted to last minute changes. </i>
 `
   },
   {
