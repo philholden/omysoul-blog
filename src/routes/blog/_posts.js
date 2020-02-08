@@ -9,7 +9,7 @@
 
 const posts = [
   {
-    title: "February's goal: 20 worshiping in the streets",
+    title: "February's goal: 20 worshippers on the streets",
     slug: "februarys-goal-20-worshiping-in-the-streets",
     html: `<img src="/img/princess-street.jpg" style="width: 100%; margin: 16px 0 0" />
 
