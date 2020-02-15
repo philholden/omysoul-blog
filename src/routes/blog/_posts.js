@@ -21,6 +21,7 @@ const posts = [
 		The projector battery only lasts one hour so please come on time:
 
 		<h2>Saturday 15th February 5pm</h2>
+		<p><span style="color: red">Due to high winds and rain tonight's worship is cancelled, please let others know.</span>
 		<h2>Saturday 22nd February 7pm</h2>
 		
 		<p>The values of the world have drifted far away from the values of God. It is tempting for Christians to be silent and embarrassed about a
