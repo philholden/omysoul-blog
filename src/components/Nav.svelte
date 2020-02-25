@@ -54,6 +54,9 @@
       <a class:selected={segment === undefined} href=".">home</a>
     </li>
     <li>
+      <a class:selected={segment === 'tech'} href="tech">tech</a>
+    </li>
+    <li>
       <a class:selected={segment === 'newsletter'} href="newsletter">
         newsletter
       </a>
