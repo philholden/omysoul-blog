@@ -40,10 +40,9 @@
   The diagram at the top of the article gives the basic set up. For software we
   use web technology (HTML, JavaScript and CSS). Computers, phones, tablets and
   TVs often come with a web browser built in. Our app takes advantage of this
-  and runs a brower full screen. The browser can then be used to display song
+  and runs a browser full screen. The browser can then be used to display song
   lyrics and presentation slides (it can also be used to play audio and video).
-  There will be another artical soon to describe how to set up the app. If you
-  want to get the app early then sign up to the news letter below.
+  There will be another article soon to describe how to set up the app.
 </p>
 
 <p>
@@ -54,7 +53,7 @@
 <h2>The presenter phone</h2>
 <p>
   Normally one phone will be set up to be the presenter device. It controls
-  which verse from a song, or slide from a presentation is displayed on all the
+  which verse from a song or slide from a presentation is displayed on all the
   other devices.
 </p>
 <img style="margin: 8px 0 0;width: 100%" src="/img/blueroom.jpg" />
@@ -77,8 +76,8 @@
 <img style="width: 100%;display: block" src="/img/omysoul-tech-phones.svg" />
 
 <p>
-  This is nice because it works in daylight, nearly everone carries a smart
-  phone in their pocket and nothing needs to be placed on the street. However a
+  This is nice because it works in daylight, nearly everyone carries a smart
+  phone in their pocket and nothing needs to be placed on the street. However, a
   there are a couple of pieces of kit that make things a bit more interesting.
 </p>
 <p />
@@ -89,9 +88,9 @@
   src="/img/princess-street.jpg" />
 <p>
   A phone only set up works well if you have a group that you can send a link to
-  to in advance, but it is harder for passers by to join in. Somehow you need to
+  to in advance, but it is harder for passers-by to join in. Somehow you need to
   explain to them to visit a website to see the lyrics. Using a projector allows
-  passers by to join in straight away. The downside of a projector is that it
+  passers-by to join in straight away. The downside of a projector is that it
   only works after sunset.
 </p>
 <img
@@ -100,12 +99,12 @@
 <p>
   In the video above I use a battery powered Android projector. The projector is
   basically like a phone or tablet but uses a projector instead of a screen. It
-  has Wifi and Bluetooth and can download apps from Google Play. This means we
+  has WIFI and Bluetooth and can download apps from Google Play. This means we
   can download Google Chrome on the projector. We can then set a phone to be a
   wireless hotspot and provide internet for projector. The lyrics app is a
-  Persistant Web Application (PWA) this means it can be installed on the
+  Persistent Web Application (PWA) this means it can be installed on the
   projector and gets its own icon to launch the app. The projector remembers
-  Wifi passwords and Bluetooth pairings so you only need to set these up once.
+  WIFI passwords and Bluetooth pairings, so you only need to set these up once.
   This enables you to do the whole set up in a couple of minutes.
 </p>
 
@@ -119,23 +118,23 @@
     src="/img/speaker-white.jpg" />
 </div>
 <p>
-  I think its best to use human voices for singing on the street and to gather
+  I think it's best to use human voices for singing on the street and to gather
   enough people that you make an impact (or even a few people with powerful
-  voices). However a Bluetooth speaker or a pair of them can be useful for
+  voices). However, a Bluetooth speaker or a pair of them can be useful for
   prayer meetings and home groups. You can pair these with your phone and set up
   a playlist and then use the lyrics app to display the lyrics. It feels really
   powerful to control both lyrics and music just from your phone.
 </p>
 <p>
   You can also use Bluetooth speakers on the street to give the audio for a
-  presentation with slides. The street is a noisey place so you need to shout to
-  be heard. However the more you raise your voice the less control you have over
-  expression and internation. Street preachers can be hard to listen to because
-  constant shouting sounds monotonous. If you pre-record a talk you can use you
-  normal voice. You can speak gently, use your full range of expression and use
-  the speakers to give the extra volume so others can hear. You can also say
-  exactly what you intend to say (without rambling). You do not need to hold
-  your talk in memory and you can share your talk with other groups to take out
+  presentation with slides. The street is a noisy place, so you need to shout to
+  be heard. However, the more you raise your voice the less control you have
+  over expression and intonation. Street preachers can be hard to listen to
+  because constant shouting sounds monotonous. If you pre-record a talk you can
+  use your normal voice. You can speak gently, use your full range of expression
+  and use the speakers to give the extra volume so others can hear. You can also
+  say exactly what you intend to say (without rambling). You do not need to hold
+  your talk in memory, and you can share your talk with other groups to take out
   on the street.
 </p>
 
@@ -164,8 +163,8 @@
     to capture and share song ideas when composing music and writing songs
   </li>
   <li>
-    to record songs when they are sung on the street as a the sound track for a
-    youtube video
+    to record songs when they are sung on the street as a the soundtrack for a
+    YouTube video
   </li>
 </ul>
 
@@ -190,7 +189,7 @@
 
 <p>
   Sound recorders are also helpful for capturing and sharing song ideas. Below
-  is the story of how the songs of one rural Chinese girl sung into a dictaphone
+  is the story of how the songs of one rural Chinese girl sung into a Dictaphone
   on her quiet time walks have fuelled the worship of millions in the revival in
   China.
 </p>
@@ -207,13 +206,13 @@
 </div>
 
 <p>
-  Jesus was clever about how he used technology. When the crowds got so tight
+  Jesus was clever about how he used technology. When the crowds got so tight,
   they blocked people from seeing and hearing, he got into a boat and put a
   little distance between himself and the crowd. That way he could hold the
   attention of more people.
 </p>
 <p>
-  If we are clever about how we use technology we can mobilise many believers to
-  use their talents to proclaim the good news about Jesus to a destracted and
+  If we are clever about how we use technology, we can mobilise many believers
+  to use their talents to proclaim the good news about Jesus to a distracted and
   dying world.
 </p>

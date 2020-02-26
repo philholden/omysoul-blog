@@ -57,6 +57,11 @@
       <a class:selected={segment === 'tech'} href="tech">tech</a>
     </li>
     <li>
+      <a class:selected={segment === 'prayer-at-work'} href="prayer-at-work">
+        prayer
+      </a>
+    </li>
+    <li>
       <a class:selected={segment === 'newsletter'} href="newsletter">
         newsletter
       </a>
